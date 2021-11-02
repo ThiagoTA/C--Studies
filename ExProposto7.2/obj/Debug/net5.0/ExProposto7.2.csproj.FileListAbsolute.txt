@@ -1,0 +1,15 @@
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\ExProposto7.2\ExProposto7.2\bin\Debug\net5.0\ExProposto7.2.exe
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\ExProposto7.2\ExProposto7.2\bin\Debug\net5.0\ExProposto7.2.deps.json
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\ExProposto7.2\ExProposto7.2\bin\Debug\net5.0\ExProposto7.2.runtimeconfig.json
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\ExProposto7.2\ExProposto7.2\bin\Debug\net5.0\ExProposto7.2.runtimeconfig.dev.json
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\ExProposto7.2\ExProposto7.2\bin\Debug\net5.0\ExProposto7.2.dll
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\ExProposto7.2\ExProposto7.2\bin\Debug\net5.0\ref\ExProposto7.2.dll
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\ExProposto7.2\ExProposto7.2\bin\Debug\net5.0\ExProposto7.2.pdb
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\ExProposto7.2\ExProposto7.2\obj\Debug\net5.0\ExProposto7.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\ExProposto7.2\ExProposto7.2\obj\Debug\net5.0\ExProposto7.2.AssemblyInfoInputs.cache
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\ExProposto7.2\ExProposto7.2\obj\Debug\net5.0\ExProposto7.2.AssemblyInfo.cs
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\ExProposto7.2\ExProposto7.2\obj\Debug\net5.0\ExProposto7.2.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\ExProposto7.2\ExProposto7.2\obj\Debug\net5.0\ExProposto7.2.dll
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\ExProposto7.2\ExProposto7.2\obj\Debug\net5.0\ref\ExProposto7.2.dll
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\ExProposto7.2\ExProposto7.2\obj\Debug\net5.0\ExProposto7.2.pdb
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\ExProposto7.2\ExProposto7.2\obj\Debug\net5.0\ExProposto7.2.genruntimeconfig.cache
