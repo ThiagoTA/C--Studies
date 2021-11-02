@@ -1,0 +1,15 @@
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\ExProposto5.1\ExProposto5.1\bin\Debug\net5.0\ExProposto5.1.exe
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\ExProposto5.1\ExProposto5.1\bin\Debug\net5.0\ExProposto5.1.deps.json
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\ExProposto5.1\ExProposto5.1\bin\Debug\net5.0\ExProposto5.1.runtimeconfig.json
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\ExProposto5.1\ExProposto5.1\bin\Debug\net5.0\ExProposto5.1.runtimeconfig.dev.json
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\ExProposto5.1\ExProposto5.1\bin\Debug\net5.0\ExProposto5.1.dll
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\ExProposto5.1\ExProposto5.1\bin\Debug\net5.0\ref\ExProposto5.1.dll
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\ExProposto5.1\ExProposto5.1\bin\Debug\net5.0\ExProposto5.1.pdb
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\ExProposto5.1\ExProposto5.1\obj\Debug\net5.0\ExProposto5.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\ExProposto5.1\ExProposto5.1\obj\Debug\net5.0\ExProposto5.1.AssemblyInfoInputs.cache
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\ExProposto5.1\ExProposto5.1\obj\Debug\net5.0\ExProposto5.1.AssemblyInfo.cs
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\ExProposto5.1\ExProposto5.1\obj\Debug\net5.0\ExProposto5.1.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\ExProposto5.1\ExProposto5.1\obj\Debug\net5.0\ExProposto5.1.dll
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\ExProposto5.1\ExProposto5.1\obj\Debug\net5.0\ref\ExProposto5.1.dll
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\ExProposto5.1\ExProposto5.1\obj\Debug\net5.0\ExProposto5.1.pdb
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\ExProposto5.1\ExProposto5.1\obj\Debug\net5.0\ExProposto5.1.genruntimeconfig.cache
