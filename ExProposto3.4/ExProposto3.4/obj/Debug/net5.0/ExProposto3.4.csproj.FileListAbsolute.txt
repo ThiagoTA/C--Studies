@@ -1,0 +1,16 @@
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\ExProposto3.4\ExProposto3.4\bin\Debug\net5.0\ExProposto3.4.exe
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\ExProposto3.4\ExProposto3.4\bin\Debug\net5.0\ExProposto3.4.deps.json
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\ExProposto3.4\ExProposto3.4\bin\Debug\net5.0\ExProposto3.4.runtimeconfig.json
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\ExProposto3.4\ExProposto3.4\bin\Debug\net5.0\ExProposto3.4.runtimeconfig.dev.json
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\ExProposto3.4\ExProposto3.4\bin\Debug\net5.0\ExProposto3.4.dll
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\ExProposto3.4\ExProposto3.4\bin\Debug\net5.0\ref\ExProposto3.4.dll
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\ExProposto3.4\ExProposto3.4\bin\Debug\net5.0\ExProposto3.4.pdb
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\ExProposto3.4\ExProposto3.4\obj\Debug\net5.0\ExProposto3.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\ExProposto3.4\ExProposto3.4\obj\Debug\net5.0\ExProposto3.4.AssemblyInfoInputs.cache
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\ExProposto3.4\ExProposto3.4\obj\Debug\net5.0\ExProposto3.4.AssemblyInfo.cs
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\ExProposto3.4\ExProposto3.4\obj\Debug\net5.0\ExProposto3.4.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\ExProposto3.4\ExProposto3.4\obj\Debug\net5.0\ExProposto3.4.dll
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\ExProposto3.4\ExProposto3.4\obj\Debug\net5.0\ref\ExProposto3.4.dll
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\ExProposto3.4\ExProposto3.4\obj\Debug\net5.0\ExProposto3.4.pdb
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\ExProposto3.4\ExProposto3.4\obj\Debug\net5.0\ExProposto3.4.genruntimeconfig.cache
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\ExProposto3.4\ExProposto3.4\obj\Debug\net5.0\ExProposto3.4.csproj.AssemblyReference.cache
