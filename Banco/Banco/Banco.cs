@@ -4,10 +4,10 @@ namespace Banco
 {
     class Banco
     {
-        public double Taxa = 5.00;
         public int Conta { get; private set; }
         public string _nome;
         public double Deposito { get; private set; }
+        public static double Taxa = 5.00;
 
         public Banco(){
         }
