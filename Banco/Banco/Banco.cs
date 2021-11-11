@@ -37,14 +37,14 @@ namespace Banco
             }
         }
 
-        public double Depositar(double adicionar)
+        public void Depositar(double adicionar)
         {
-            return Deposito += adicionar;
+            Deposito += adicionar;
         }
 
-        public double Sacar(double remover)
+        public void Sacar(double remover)
         {
-            return Deposito = (Deposito - remover) - Taxa;
+            Deposito = (Deposito - remover) - Taxa;
         }
 
         public override string ToString()
