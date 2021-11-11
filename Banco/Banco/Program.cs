@@ -10,7 +10,7 @@ namespace Banco
             int conta = int.Parse(Console.ReadLine());
             Console.Write("Entre com o titular da conta: ");
             string nome = Console.ReadLine();
-            Console.Write("Haverá dépósito inicial (s/n)? ");
+            Console.Write("Haverá depósito inicial (s/n)? ");
             string resposta = Console.ReadLine();
 
             Banco b = new Banco();
