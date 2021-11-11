@@ -19,12 +19,9 @@ namespace Banco
                 Console.Write("\nEntre com o valor do depósito inicial: ");
                 double deposito = double.Parse(Console.ReadLine());
                 b = new Banco(conta, nome, deposito);
-            } else if (resposta == "n") {
+            } else {
                 b = new Banco(conta, nome);
-            } else
-            {
-                Console.WriteLine("[Erro]");
-            }
+            } 
 
             Console.WriteLine("\nDados da conta:");
             Console.WriteLine(b);
