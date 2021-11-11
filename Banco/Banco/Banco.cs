@@ -14,9 +14,7 @@ namespace Banco
 
         public Banco(int conta, string nome, double deposito)
         {
-            Conta = conta;
-            _nome = nome;
-            Deposito = deposito;
+            Depositar(deposito);
         }
 
         public Banco(int conta, string nome)
