@@ -16,18 +16,15 @@ namespace ExProposto
             {
                 Alunos[] vect = new Alunos[10];
 
-                string nome;
-                string email;
-                int quarto;
                 for (int i = 1; i <= N; i++)
                 {
                     Console.WriteLine("\nAluguel #{0}", i);
                     Console.Write("Nome: ");
-                    nome = Console.ReadLine();
+                    string nome = Console.ReadLine();
                     Console.Write("Email: ");
-                    email = Console.ReadLine();
+                    string email = Console.ReadLine();
                     Console.Write("Número do quarto: ");
-                    quarto = int.Parse(Console.ReadLine());
+                    int quarto = int.Parse(Console.ReadLine());
                     vect[quarto] = new Alunos(nome, email);
                 }
 
