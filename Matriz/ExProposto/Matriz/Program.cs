@@ -25,7 +25,7 @@ namespace Matriz
                 }
             }
 
-            Console.Write("\nEscolha um número da matriz: ");
+            Console.Write("\nEscolha os números da matriz: ");
             int X = int.Parse(Console.ReadLine());
 
             for (int i = 0; i < M; i++)
