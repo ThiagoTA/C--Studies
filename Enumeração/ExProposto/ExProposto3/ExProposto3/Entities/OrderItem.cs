@@ -1,8 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
+using System.Globalization;
 
 namespace ExProposto3.Entities
 {
@@ -25,7 +23,17 @@ namespace ExProposto3.Entities
 
         public double SubTotal()
         {
-            return Price * Quantity;
+            return Product.Price * Quantity;
+        }
+
+        public override string ToString()
+        {
+            StringBuilder sb = new StringBuilder();
+            sb.Append(Product.Name + ", "
+                    + Product.Price.ToString("F2", CultureInfo.InvariantCulture) + ", "
+                    + "Quantity: " + Quantity + ", "
+                    + "SubTotal: " + " $" + SubTotal().ToString("F2", CultureInfo.InvariantCulture));
+            return sb.ToString();
         }
     }
 }

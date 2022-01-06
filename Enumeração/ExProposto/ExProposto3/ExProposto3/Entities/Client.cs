@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Text;
 
 namespace ExProposto3.Entities
 {
@@ -6,17 +7,24 @@ namespace ExProposto3.Entities
     {
         public string Name { get; set; }
         public string Email { get; set; }
-        public DateTime birthDate { get; set; }
+        public DateTime BirthDate { get; set; }
 
         public Client()
         {
         }
 
-        public Client(string name, string email, DateTime date)
+        public Client(string name, string email, DateTime birthDate)
         {
             Name = name;
             Email = email;
-            Date = date;
+            BirthDate = birthDate;
+        }
+
+        public override string ToString()
+        {
+            StringBuilder sb = new StringBuilder();
+            sb.Append(Name + " (" + BirthDate.ToString("dd/MM/yyyy") + ") - " + Email);
+            return sb.ToString();
         }
     }
 }

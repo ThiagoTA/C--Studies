@@ -1,6 +1,6 @@
 ﻿using System;
+using System.Globalization;
 using System.Collections.Generic;
-using System.Linq;
 using System.Text;
 using ExProposto3.Entities.Enums;
 
@@ -26,7 +26,7 @@ namespace ExProposto3.Entities
             Client = client;
         }
 
-        public void addItem(OrderItem item)
+        public void AddItem(OrderItem item)
         {
             Items.Add(item);
         }
@@ -44,6 +44,22 @@ namespace ExProposto3.Entities
                 sum += item.SubTotal();
             }
             return sum;
+        }
+
+        public override string ToString()
+        {
+            StringBuilder sb = new StringBuilder();
+            sb.Append("Order moment: ");
+            sb.AppendLine(Moment.ToString("dd/MM/yyyy HH:mm:ss"));
+            sb.AppendLine("Order Status: " + Status);
+            sb.AppendLine("Client: " + Client);
+            sb.AppendLine("Order items:");
+            foreach (OrderItem item in Items)
+            {
+                sb.AppendLine(item.ToString());
+            }
+            sb.AppendLine("Total  price: " + Total().ToString("F2", CultureInfo.InvariantCulture));
+            return sb.ToString();
         }
     }
 }
