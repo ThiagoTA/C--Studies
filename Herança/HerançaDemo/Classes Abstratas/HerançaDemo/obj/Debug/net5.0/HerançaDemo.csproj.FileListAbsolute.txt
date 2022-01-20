@@ -1,0 +1,32 @@
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\Herança\HerançaDemo\HerançaDemo\bin\Debug\net5.0\HerançaDemo.exe
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\Herança\HerançaDemo\HerançaDemo\bin\Debug\net5.0\HerançaDemo.deps.json
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\Herança\HerançaDemo\HerançaDemo\bin\Debug\net5.0\HerançaDemo.runtimeconfig.json
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\Herança\HerançaDemo\HerançaDemo\bin\Debug\net5.0\HerançaDemo.runtimeconfig.dev.json
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\Herança\HerançaDemo\HerançaDemo\bin\Debug\net5.0\HerançaDemo.dll
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\Herança\HerançaDemo\HerançaDemo\bin\Debug\net5.0\ref\HerançaDemo.dll
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\Herança\HerançaDemo\HerançaDemo\bin\Debug\net5.0\HerançaDemo.pdb
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\Herança\HerançaDemo\HerançaDemo\obj\Debug\net5.0\HerançaDemo.csproj.AssemblyReference.cache
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\Herança\HerançaDemo\HerançaDemo\obj\Debug\net5.0\HerançaDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\Herança\HerançaDemo\HerançaDemo\obj\Debug\net5.0\HerançaDemo.AssemblyInfoInputs.cache
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\Herança\HerançaDemo\HerançaDemo\obj\Debug\net5.0\HerançaDemo.AssemblyInfo.cs
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\Herança\HerançaDemo\HerançaDemo\obj\Debug\net5.0\HerançaDemo.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\Herança\HerançaDemo\HerançaDemo\obj\Debug\net5.0\HerançaDemo.dll
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\Herança\HerançaDemo\HerançaDemo\obj\Debug\net5.0\ref\HerançaDemo.dll
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\Herança\HerançaDemo\HerançaDemo\obj\Debug\net5.0\HerançaDemo.pdb
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\Herança\HerançaDemo\HerançaDemo\obj\Debug\net5.0\HerançaDemo.genruntimeconfig.cache
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\Herança\Classes Abstratas\HerançaDemo\bin\Debug\net5.0\HerançaDemo.exe
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\Herança\Classes Abstratas\HerançaDemo\bin\Debug\net5.0\HerançaDemo.deps.json
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\Herança\Classes Abstratas\HerançaDemo\bin\Debug\net5.0\HerançaDemo.runtimeconfig.json
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\Herança\Classes Abstratas\HerançaDemo\bin\Debug\net5.0\HerançaDemo.runtimeconfig.dev.json
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\Herança\Classes Abstratas\HerançaDemo\bin\Debug\net5.0\HerançaDemo.dll
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\Herança\Classes Abstratas\HerançaDemo\bin\Debug\net5.0\ref\HerançaDemo.dll
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\Herança\Classes Abstratas\HerançaDemo\bin\Debug\net5.0\HerançaDemo.pdb
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\Herança\Classes Abstratas\HerançaDemo\obj\Debug\net5.0\HerançaDemo.csproj.AssemblyReference.cache
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\Herança\Classes Abstratas\HerançaDemo\obj\Debug\net5.0\HerançaDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\Herança\Classes Abstratas\HerançaDemo\obj\Debug\net5.0\HerançaDemo.AssemblyInfoInputs.cache
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\Herança\Classes Abstratas\HerançaDemo\obj\Debug\net5.0\HerançaDemo.AssemblyInfo.cs
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\Herança\Classes Abstratas\HerançaDemo\obj\Debug\net5.0\HerançaDemo.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\Herança\Classes Abstratas\HerançaDemo\obj\Debug\net5.0\HerançaDemo.dll
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\Herança\Classes Abstratas\HerançaDemo\obj\Debug\net5.0\ref\HerançaDemo.dll
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\Herança\Classes Abstratas\HerançaDemo\obj\Debug\net5.0\HerançaDemo.pdb
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\Herança\Classes Abstratas\HerançaDemo\obj\Debug\net5.0\HerançaDemo.genruntimeconfig.cache
