@@ -1,0 +1,16 @@
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\Exceções\CourseDemo\CourseDemo\bin\Debug\net5.0\CourseDemo.exe
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\Exceções\CourseDemo\CourseDemo\bin\Debug\net5.0\CourseDemo.deps.json
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\Exceções\CourseDemo\CourseDemo\bin\Debug\net5.0\CourseDemo.runtimeconfig.json
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\Exceções\CourseDemo\CourseDemo\bin\Debug\net5.0\CourseDemo.runtimeconfig.dev.json
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\Exceções\CourseDemo\CourseDemo\bin\Debug\net5.0\CourseDemo.dll
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\Exceções\CourseDemo\CourseDemo\bin\Debug\net5.0\ref\CourseDemo.dll
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\Exceções\CourseDemo\CourseDemo\bin\Debug\net5.0\CourseDemo.pdb
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\Exceções\CourseDemo\CourseDemo\obj\Debug\net5.0\CourseDemo.csproj.AssemblyReference.cache
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\Exceções\CourseDemo\CourseDemo\obj\Debug\net5.0\CourseDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\Exceções\CourseDemo\CourseDemo\obj\Debug\net5.0\CourseDemo.AssemblyInfoInputs.cache
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\Exceções\CourseDemo\CourseDemo\obj\Debug\net5.0\CourseDemo.AssemblyInfo.cs
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\Exceções\CourseDemo\CourseDemo\obj\Debug\net5.0\CourseDemo.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\Exceções\CourseDemo\CourseDemo\obj\Debug\net5.0\CourseDemo.dll
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\Exceções\CourseDemo\CourseDemo\obj\Debug\net5.0\ref\CourseDemo.dll
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\Exceções\CourseDemo\CourseDemo\obj\Debug\net5.0\CourseDemo.pdb
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\Exceções\CourseDemo\CourseDemo\obj\Debug\net5.0\CourseDemo.genruntimeconfig.cache
