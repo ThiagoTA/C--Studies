@@ -1,0 +1,16 @@
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\Arquivos\ArquivoDemo3\ArquivoDemo3\bin\Debug\net5.0\ArquivoDemo3.exe
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\Arquivos\ArquivoDemo3\ArquivoDemo3\bin\Debug\net5.0\ArquivoDemo3.deps.json
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\Arquivos\ArquivoDemo3\ArquivoDemo3\bin\Debug\net5.0\ArquivoDemo3.runtimeconfig.json
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\Arquivos\ArquivoDemo3\ArquivoDemo3\bin\Debug\net5.0\ArquivoDemo3.runtimeconfig.dev.json
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\Arquivos\ArquivoDemo3\ArquivoDemo3\bin\Debug\net5.0\ArquivoDemo3.dll
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\Arquivos\ArquivoDemo3\ArquivoDemo3\bin\Debug\net5.0\ref\ArquivoDemo3.dll
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\Arquivos\ArquivoDemo3\ArquivoDemo3\bin\Debug\net5.0\ArquivoDemo3.pdb
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\Arquivos\ArquivoDemo3\ArquivoDemo3\obj\Debug\net5.0\ArquivoDemo3.csproj.AssemblyReference.cache
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\Arquivos\ArquivoDemo3\ArquivoDemo3\obj\Debug\net5.0\ArquivoDemo3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\Arquivos\ArquivoDemo3\ArquivoDemo3\obj\Debug\net5.0\ArquivoDemo3.AssemblyInfoInputs.cache
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\Arquivos\ArquivoDemo3\ArquivoDemo3\obj\Debug\net5.0\ArquivoDemo3.AssemblyInfo.cs
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\Arquivos\ArquivoDemo3\ArquivoDemo3\obj\Debug\net5.0\ArquivoDemo3.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\Arquivos\ArquivoDemo3\ArquivoDemo3\obj\Debug\net5.0\ArquivoDemo3.dll
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\Arquivos\ArquivoDemo3\ArquivoDemo3\obj\Debug\net5.0\ref\ArquivoDemo3.dll
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\Arquivos\ArquivoDemo3\ArquivoDemo3\obj\Debug\net5.0\ArquivoDemo3.pdb
+C:\Users\Thiago\Desktop\Programação\C#\Exercícios\Arquivos\ArquivoDemo3\ArquivoDemo3\obj\Debug\net5.0\ArquivoDemo3.genruntimeconfig.cache
