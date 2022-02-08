@@ -1,0 +1,15 @@
+C:\Users\Thiago\Documents\Programações\C#\Exercícios\Arquivos\ArquivosDemo6\ArquivosDemo6\bin\Debug\net6.0\ArquivosDemo6.exe
+C:\Users\Thiago\Documents\Programações\C#\Exercícios\Arquivos\ArquivosDemo6\ArquivosDemo6\bin\Debug\net6.0\ArquivosDemo6.deps.json
+C:\Users\Thiago\Documents\Programações\C#\Exercícios\Arquivos\ArquivosDemo6\ArquivosDemo6\bin\Debug\net6.0\ArquivosDemo6.runtimeconfig.json
+C:\Users\Thiago\Documents\Programações\C#\Exercícios\Arquivos\ArquivosDemo6\ArquivosDemo6\bin\Debug\net6.0\ArquivosDemo6.dll
+C:\Users\Thiago\Documents\Programações\C#\Exercícios\Arquivos\ArquivosDemo6\ArquivosDemo6\bin\Debug\net6.0\ref\ArquivosDemo6.dll
+C:\Users\Thiago\Documents\Programações\C#\Exercícios\Arquivos\ArquivosDemo6\ArquivosDemo6\bin\Debug\net6.0\ArquivosDemo6.pdb
+C:\Users\Thiago\Documents\Programações\C#\Exercícios\Arquivos\ArquivosDemo6\ArquivosDemo6\obj\Debug\net6.0\ArquivosDemo6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago\Documents\Programações\C#\Exercícios\Arquivos\ArquivosDemo6\ArquivosDemo6\obj\Debug\net6.0\ArquivosDemo6.AssemblyInfoInputs.cache
+C:\Users\Thiago\Documents\Programações\C#\Exercícios\Arquivos\ArquivosDemo6\ArquivosDemo6\obj\Debug\net6.0\ArquivosDemo6.AssemblyInfo.cs
+C:\Users\Thiago\Documents\Programações\C#\Exercícios\Arquivos\ArquivosDemo6\ArquivosDemo6\obj\Debug\net6.0\ArquivosDemo6.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Documents\Programações\C#\Exercícios\Arquivos\ArquivosDemo6\ArquivosDemo6\obj\Debug\net6.0\ArquivosDemo6.dll
+C:\Users\Thiago\Documents\Programações\C#\Exercícios\Arquivos\ArquivosDemo6\ArquivosDemo6\obj\Debug\net6.0\ref\ArquivosDemo6.dll
+C:\Users\Thiago\Documents\Programações\C#\Exercícios\Arquivos\ArquivosDemo6\ArquivosDemo6\obj\Debug\net6.0\ArquivosDemo6.pdb
+C:\Users\Thiago\Documents\Programações\C#\Exercícios\Arquivos\ArquivosDemo6\ArquivosDemo6\obj\Debug\net6.0\ArquivosDemo6.genruntimeconfig.cache
+C:\Users\Thiago\Documents\Programações\C#\Exercícios\Arquivos\ArquivosDemo6\ArquivosDemo6\obj\Debug\net6.0\ArquivosDemo6.csproj.AssemblyReference.cache

@@ -1,0 +1,15 @@
+C:\Users\Thiago\Documents\Programações\C#\Exercícios\Arquivos\ArquivosDemo5\ArquivosDemo5\bin\Debug\net6.0\ArquivosDemo5.exe
+C:\Users\Thiago\Documents\Programações\C#\Exercícios\Arquivos\ArquivosDemo5\ArquivosDemo5\bin\Debug\net6.0\ArquivosDemo5.deps.json
+C:\Users\Thiago\Documents\Programações\C#\Exercícios\Arquivos\ArquivosDemo5\ArquivosDemo5\bin\Debug\net6.0\ArquivosDemo5.runtimeconfig.json
+C:\Users\Thiago\Documents\Programações\C#\Exercícios\Arquivos\ArquivosDemo5\ArquivosDemo5\bin\Debug\net6.0\ArquivosDemo5.dll
+C:\Users\Thiago\Documents\Programações\C#\Exercícios\Arquivos\ArquivosDemo5\ArquivosDemo5\bin\Debug\net6.0\ref\ArquivosDemo5.dll
+C:\Users\Thiago\Documents\Programações\C#\Exercícios\Arquivos\ArquivosDemo5\ArquivosDemo5\bin\Debug\net6.0\ArquivosDemo5.pdb
+C:\Users\Thiago\Documents\Programações\C#\Exercícios\Arquivos\ArquivosDemo5\ArquivosDemo5\obj\Debug\net6.0\ArquivosDemo5.csproj.AssemblyReference.cache
+C:\Users\Thiago\Documents\Programações\C#\Exercícios\Arquivos\ArquivosDemo5\ArquivosDemo5\obj\Debug\net6.0\ArquivosDemo5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago\Documents\Programações\C#\Exercícios\Arquivos\ArquivosDemo5\ArquivosDemo5\obj\Debug\net6.0\ArquivosDemo5.AssemblyInfoInputs.cache
+C:\Users\Thiago\Documents\Programações\C#\Exercícios\Arquivos\ArquivosDemo5\ArquivosDemo5\obj\Debug\net6.0\ArquivosDemo5.AssemblyInfo.cs
+C:\Users\Thiago\Documents\Programações\C#\Exercícios\Arquivos\ArquivosDemo5\ArquivosDemo5\obj\Debug\net6.0\ArquivosDemo5.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Documents\Programações\C#\Exercícios\Arquivos\ArquivosDemo5\ArquivosDemo5\obj\Debug\net6.0\ArquivosDemo5.dll
+C:\Users\Thiago\Documents\Programações\C#\Exercícios\Arquivos\ArquivosDemo5\ArquivosDemo5\obj\Debug\net6.0\ref\ArquivosDemo5.dll
+C:\Users\Thiago\Documents\Programações\C#\Exercícios\Arquivos\ArquivosDemo5\ArquivosDemo5\obj\Debug\net6.0\ArquivosDemo5.pdb
+C:\Users\Thiago\Documents\Programações\C#\Exercícios\Arquivos\ArquivosDemo5\ArquivosDemo5\obj\Debug\net6.0\ArquivosDemo5.genruntimeconfig.cache

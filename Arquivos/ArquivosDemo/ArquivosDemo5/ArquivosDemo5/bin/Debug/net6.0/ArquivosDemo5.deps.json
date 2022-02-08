@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ArquivosDemo5/1.0.0": {
+        "runtime": {
+          "ArquivosDemo5.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ArquivosDemo5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
