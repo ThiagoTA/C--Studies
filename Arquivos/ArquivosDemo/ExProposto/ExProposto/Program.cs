@@ -1,6 +1,7 @@
 ﻿using System;
 using System.IO;
 using System.Collections.Generic;
+using System.Globalization;
 
 string path = @"c:\Source";
 
@@ -11,6 +12,11 @@ if (File.Exists(path + @"\source.csv"))
 
 FileStream sourcetext = File.Create(path + @"\source.csv");
 StreamWriter sw = new StreamWriter(sourcetext);
+
+DirectoryInfo newOut = Directory.CreateDirectory(path + @"\out");
+
+FileStream summary = File.Create(newOut + @"\summary.csv");
+StreamWriter summaryWrite = new StreamWriter(summary);
 
 try
 {
@@ -26,11 +32,14 @@ try
                 Console.Write("Name: ");
                 string name = Console.ReadLine();
                 Console.Write("Price: ");
-                double price = double.Parse(Console.ReadLine());
+                double price = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
                 Console.Write("Amount: ");
                 int amount = int.Parse(Console.ReadLine());
 
-                sw.WriteLine($"{name}, {price}, {amount}");
+                sw.WriteLine($"{name}, {price.ToString("F2", CultureInfo.InvariantCulture)}, {amount}");
+
+                double total = price * amount;
+                summaryWrite.WriteLine($"{name}, {total.ToString("F2", CultureInfo.InvariantCulture)}");
         }
     }
     catch (FormatException e)
@@ -39,24 +48,6 @@ try
         Console.WriteLine(e.Message);
     }
 
-    if (Directory.Exists(path + @"\out"))
-    {
-        Directory.Delete(path + @"\out");
-    }
-
-    DirectoryInfo newOut = Directory.CreateDirectory(path + @"\out");
-    FileStream summary = File.Create(newOut + @"\summary.csv");
-
-    StreamReader summaryReader = new StreamReader(summary);
-
-    summaryReader = File.OpenText(path + sourcetext);
-    while (!summaryReader.EndOfStream)
-    {
-        string line = summaryReader.ReadLine();
-        Console.WriteLine(line);
-    }
-    
-
 } catch (IOException e)
 {
     Console.WriteLine("\nAn error occurred");
@@ -64,6 +55,7 @@ try
 } finally
 {
     if (sw != null) sw.Close();
+    if (summaryWrite != null) summaryWrite.Close();
 }
 
 
