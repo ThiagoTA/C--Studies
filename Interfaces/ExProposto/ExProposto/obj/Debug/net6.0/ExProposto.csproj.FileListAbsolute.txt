@@ -1,0 +1,15 @@
+C:\Users\Thiago\Documents\Programações\C#\Exercícios\Interfaces\ExProposto\ExProposto\bin\Debug\net6.0\ExProposto.exe
+C:\Users\Thiago\Documents\Programações\C#\Exercícios\Interfaces\ExProposto\ExProposto\bin\Debug\net6.0\ExProposto.deps.json
+C:\Users\Thiago\Documents\Programações\C#\Exercícios\Interfaces\ExProposto\ExProposto\bin\Debug\net6.0\ExProposto.runtimeconfig.json
+C:\Users\Thiago\Documents\Programações\C#\Exercícios\Interfaces\ExProposto\ExProposto\bin\Debug\net6.0\ExProposto.dll
+C:\Users\Thiago\Documents\Programações\C#\Exercícios\Interfaces\ExProposto\ExProposto\bin\Debug\net6.0\ref\ExProposto.dll
+C:\Users\Thiago\Documents\Programações\C#\Exercícios\Interfaces\ExProposto\ExProposto\bin\Debug\net6.0\ExProposto.pdb
+C:\Users\Thiago\Documents\Programações\C#\Exercícios\Interfaces\ExProposto\ExProposto\obj\Debug\net6.0\ExProposto.csproj.AssemblyReference.cache
+C:\Users\Thiago\Documents\Programações\C#\Exercícios\Interfaces\ExProposto\ExProposto\obj\Debug\net6.0\ExProposto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago\Documents\Programações\C#\Exercícios\Interfaces\ExProposto\ExProposto\obj\Debug\net6.0\ExProposto.AssemblyInfoInputs.cache
+C:\Users\Thiago\Documents\Programações\C#\Exercícios\Interfaces\ExProposto\ExProposto\obj\Debug\net6.0\ExProposto.AssemblyInfo.cs
+C:\Users\Thiago\Documents\Programações\C#\Exercícios\Interfaces\ExProposto\ExProposto\obj\Debug\net6.0\ExProposto.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Documents\Programações\C#\Exercícios\Interfaces\ExProposto\ExProposto\obj\Debug\net6.0\ExProposto.dll
+C:\Users\Thiago\Documents\Programações\C#\Exercícios\Interfaces\ExProposto\ExProposto\obj\Debug\net6.0\ref\ExProposto.dll
+C:\Users\Thiago\Documents\Programações\C#\Exercícios\Interfaces\ExProposto\ExProposto\obj\Debug\net6.0\ExProposto.pdb
+C:\Users\Thiago\Documents\Programações\C#\Exercícios\Interfaces\ExProposto\ExProposto\obj\Debug\net6.0\ExProposto.genruntimeconfig.cache
