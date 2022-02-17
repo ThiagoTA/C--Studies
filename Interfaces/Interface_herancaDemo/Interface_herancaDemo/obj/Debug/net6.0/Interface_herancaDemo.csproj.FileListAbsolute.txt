@@ -1,0 +1,15 @@
+C:\Users\Thiago\Documents\Programações\C#\Exercícios\Interfaces\Interface_herancaDemo\Interface_herancaDemo\bin\Debug\net6.0\Interface_herancaDemo.exe
+C:\Users\Thiago\Documents\Programações\C#\Exercícios\Interfaces\Interface_herancaDemo\Interface_herancaDemo\bin\Debug\net6.0\Interface_herancaDemo.deps.json
+C:\Users\Thiago\Documents\Programações\C#\Exercícios\Interfaces\Interface_herancaDemo\Interface_herancaDemo\bin\Debug\net6.0\Interface_herancaDemo.runtimeconfig.json
+C:\Users\Thiago\Documents\Programações\C#\Exercícios\Interfaces\Interface_herancaDemo\Interface_herancaDemo\bin\Debug\net6.0\Interface_herancaDemo.dll
+C:\Users\Thiago\Documents\Programações\C#\Exercícios\Interfaces\Interface_herancaDemo\Interface_herancaDemo\bin\Debug\net6.0\ref\Interface_herancaDemo.dll
+C:\Users\Thiago\Documents\Programações\C#\Exercícios\Interfaces\Interface_herancaDemo\Interface_herancaDemo\bin\Debug\net6.0\Interface_herancaDemo.pdb
+C:\Users\Thiago\Documents\Programações\C#\Exercícios\Interfaces\Interface_herancaDemo\Interface_herancaDemo\obj\Debug\net6.0\Interface_herancaDemo.csproj.AssemblyReference.cache
+C:\Users\Thiago\Documents\Programações\C#\Exercícios\Interfaces\Interface_herancaDemo\Interface_herancaDemo\obj\Debug\net6.0\Interface_herancaDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago\Documents\Programações\C#\Exercícios\Interfaces\Interface_herancaDemo\Interface_herancaDemo\obj\Debug\net6.0\Interface_herancaDemo.AssemblyInfoInputs.cache
+C:\Users\Thiago\Documents\Programações\C#\Exercícios\Interfaces\Interface_herancaDemo\Interface_herancaDemo\obj\Debug\net6.0\Interface_herancaDemo.AssemblyInfo.cs
+C:\Users\Thiago\Documents\Programações\C#\Exercícios\Interfaces\Interface_herancaDemo\Interface_herancaDemo\obj\Debug\net6.0\Interface_herancaDemo.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Documents\Programações\C#\Exercícios\Interfaces\Interface_herancaDemo\Interface_herancaDemo\obj\Debug\net6.0\Interface_herancaDemo.dll
+C:\Users\Thiago\Documents\Programações\C#\Exercícios\Interfaces\Interface_herancaDemo\Interface_herancaDemo\obj\Debug\net6.0\ref\Interface_herancaDemo.dll
+C:\Users\Thiago\Documents\Programações\C#\Exercícios\Interfaces\Interface_herancaDemo\Interface_herancaDemo\obj\Debug\net6.0\Interface_herancaDemo.pdb
+C:\Users\Thiago\Documents\Programações\C#\Exercícios\Interfaces\Interface_herancaDemo\Interface_herancaDemo\obj\Debug\net6.0\Interface_herancaDemo.genruntimeconfig.cache
