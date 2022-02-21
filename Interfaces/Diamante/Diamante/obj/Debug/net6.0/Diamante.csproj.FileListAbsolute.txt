@@ -1,0 +1,15 @@
+C:\Users\Thiago\Documents\Programações\C#\Exercícios\Interfaces\Diamante\Diamante\bin\Debug\net6.0\Diamante.exe
+C:\Users\Thiago\Documents\Programações\C#\Exercícios\Interfaces\Diamante\Diamante\bin\Debug\net6.0\Diamante.deps.json
+C:\Users\Thiago\Documents\Programações\C#\Exercícios\Interfaces\Diamante\Diamante\bin\Debug\net6.0\Diamante.runtimeconfig.json
+C:\Users\Thiago\Documents\Programações\C#\Exercícios\Interfaces\Diamante\Diamante\bin\Debug\net6.0\Diamante.dll
+C:\Users\Thiago\Documents\Programações\C#\Exercícios\Interfaces\Diamante\Diamante\bin\Debug\net6.0\ref\Diamante.dll
+C:\Users\Thiago\Documents\Programações\C#\Exercícios\Interfaces\Diamante\Diamante\bin\Debug\net6.0\Diamante.pdb
+C:\Users\Thiago\Documents\Programações\C#\Exercícios\Interfaces\Diamante\Diamante\obj\Debug\net6.0\Diamante.csproj.AssemblyReference.cache
+C:\Users\Thiago\Documents\Programações\C#\Exercícios\Interfaces\Diamante\Diamante\obj\Debug\net6.0\Diamante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago\Documents\Programações\C#\Exercícios\Interfaces\Diamante\Diamante\obj\Debug\net6.0\Diamante.AssemblyInfoInputs.cache
+C:\Users\Thiago\Documents\Programações\C#\Exercícios\Interfaces\Diamante\Diamante\obj\Debug\net6.0\Diamante.AssemblyInfo.cs
+C:\Users\Thiago\Documents\Programações\C#\Exercícios\Interfaces\Diamante\Diamante\obj\Debug\net6.0\Diamante.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Documents\Programações\C#\Exercícios\Interfaces\Diamante\Diamante\obj\Debug\net6.0\Diamante.dll
+C:\Users\Thiago\Documents\Programações\C#\Exercícios\Interfaces\Diamante\Diamante\obj\Debug\net6.0\ref\Diamante.dll
+C:\Users\Thiago\Documents\Programações\C#\Exercícios\Interfaces\Diamante\Diamante\obj\Debug\net6.0\Diamante.pdb
+C:\Users\Thiago\Documents\Programações\C#\Exercícios\Interfaces\Diamante\Diamante\obj\Debug\net6.0\Diamante.genruntimeconfig.cache
