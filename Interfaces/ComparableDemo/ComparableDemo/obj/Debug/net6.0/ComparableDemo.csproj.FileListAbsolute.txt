@@ -1,0 +1,15 @@
+C:\Users\Thiago\Documents\Programações\C#\Exercícios\Interfaces\ComparableDemo\ComparableDemo\bin\Debug\net6.0\ComparableDemo.exe
+C:\Users\Thiago\Documents\Programações\C#\Exercícios\Interfaces\ComparableDemo\ComparableDemo\bin\Debug\net6.0\ComparableDemo.deps.json
+C:\Users\Thiago\Documents\Programações\C#\Exercícios\Interfaces\ComparableDemo\ComparableDemo\bin\Debug\net6.0\ComparableDemo.runtimeconfig.json
+C:\Users\Thiago\Documents\Programações\C#\Exercícios\Interfaces\ComparableDemo\ComparableDemo\bin\Debug\net6.0\ComparableDemo.dll
+C:\Users\Thiago\Documents\Programações\C#\Exercícios\Interfaces\ComparableDemo\ComparableDemo\bin\Debug\net6.0\ref\ComparableDemo.dll
+C:\Users\Thiago\Documents\Programações\C#\Exercícios\Interfaces\ComparableDemo\ComparableDemo\bin\Debug\net6.0\ComparableDemo.pdb
+C:\Users\Thiago\Documents\Programações\C#\Exercícios\Interfaces\ComparableDemo\ComparableDemo\obj\Debug\net6.0\ComparableDemo.csproj.AssemblyReference.cache
+C:\Users\Thiago\Documents\Programações\C#\Exercícios\Interfaces\ComparableDemo\ComparableDemo\obj\Debug\net6.0\ComparableDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago\Documents\Programações\C#\Exercícios\Interfaces\ComparableDemo\ComparableDemo\obj\Debug\net6.0\ComparableDemo.AssemblyInfoInputs.cache
+C:\Users\Thiago\Documents\Programações\C#\Exercícios\Interfaces\ComparableDemo\ComparableDemo\obj\Debug\net6.0\ComparableDemo.AssemblyInfo.cs
+C:\Users\Thiago\Documents\Programações\C#\Exercícios\Interfaces\ComparableDemo\ComparableDemo\obj\Debug\net6.0\ComparableDemo.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Documents\Programações\C#\Exercícios\Interfaces\ComparableDemo\ComparableDemo\obj\Debug\net6.0\ComparableDemo.dll
+C:\Users\Thiago\Documents\Programações\C#\Exercícios\Interfaces\ComparableDemo\ComparableDemo\obj\Debug\net6.0\ref\ComparableDemo.dll
+C:\Users\Thiago\Documents\Programações\C#\Exercícios\Interfaces\ComparableDemo\ComparableDemo\obj\Debug\net6.0\ComparableDemo.pdb
+C:\Users\Thiago\Documents\Programações\C#\Exercícios\Interfaces\ComparableDemo\ComparableDemo\obj\Debug\net6.0\ComparableDemo.genruntimeconfig.cache
